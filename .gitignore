@@ -1,0 +1,58 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Enable "build/" folder in the NuGet Packages folder since NuGet uses it for MSBuild targets
+!packages/build/
+
+# Uncomment if necessary however generally it will be regenerated when needed
+# [Dd]ebugPublic/
+# [Rr]eleasePublic/
+# cstest/
+# csx/
+# Roslyn/
+# sql/
+# SQLQuery5.sql
+
+# Distribution directories
+node_modules/
+dist/
+build/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Rider
+.idea/
+*.sublime-project
+*.sublime-workspace
