@@ -1,0 +1,921 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\www\\C#\\Projetos\\LanchesMac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\admingrafico\\vendassemanal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\admingrafico\\vendassemanal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\servicos\\graficovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\servicos\\graficovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\admingrafico\\vendasmensal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\admingrafico\\vendasmensal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\admingraficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\admingraficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\admingrafico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\admingrafico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\servicos\\relatoriovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\servicos\\relatoriovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\models\\lanchegrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\lanchegrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\models\\configurationimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\configurationimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\models\\filemanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\filemanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminimagens\\getimagens.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminimagens\\getimagens.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminimagens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminimagens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\adminrelatoriovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\adminrelatoriovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminrelatoriovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminrelatoriovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminrelatoriovendas\\relatoriovendassimples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminrelatoriovendas\\relatoriovendassimples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminpedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminpedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\viewmodels\\pedidolancheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\viewmodels\\pedidolancheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminpedidos\\pedidolanches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminpedidos\\pedidolanches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminpedidos\\pedidonotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminpedidos\\pedidonotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminpedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminpedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminpedidos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminpedidos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminpedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminpedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminlanches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminlanches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminlanches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminlanches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\adminlanches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\adminlanches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\adminlanchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\adminlanchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\admincategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\admincategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\services\\iseeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\services\\iseeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\migrations\\20240802033509_adicionaridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\migrations\\20240802033509_adicionaridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\pedido\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\pedido\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\pedido\\checkoutcompleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\pedido\\checkoutcompleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|c:\\www\\c#\\projetos\\lanchesmac\\lanchesmac\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC340D6-6859-4250-812F-551F37273D98}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:12:44.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminGraficoController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:06:40.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Startup.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Startup.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Startup.cs",
+              "RelativeToolTip": "LanchesMac\\Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:05:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraficoVendasService.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:57:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileManagerModel.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Models\\FileManagerModel.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Models\\FileManagerModel.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Models\\FileManagerModel.cs",
+              "RelativeToolTip": "LanchesMac\\Models\\FileManagerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:11:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T18:00:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendasMensal.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:23:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T20:54:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendasSemanal.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T20:47:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LancheGrafico.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Models\\LancheGrafico.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Models\\LancheGrafico.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Models\\LancheGrafico.cs",
+              "RelativeToolTip": "LanchesMac\\Models\\LancheGrafico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:55:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigurationImagens.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Models\\ConfigurationImagens.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Models\\ConfigurationImagens.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Models\\ConfigurationImagens.cs",
+              "RelativeToolTip": "LanchesMac\\Models\\ConfigurationImagens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:06:25.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:27:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelatorioVendasService.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:24:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetImagens.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:46:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminImagensController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:23:37.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Program.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Program.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Program.cs",
+              "RelativeToolTip": "LanchesMac\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:30:37.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:27:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Create.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Create.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Create.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Create.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwDAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:48:57.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminRelatorioVendasController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:30:19.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RelatorioVendasSimples.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T19:32:58.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T19:31:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:35:11.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwDkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:50:08.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:50:07.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PedidoNotFound.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:58:20.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAGAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:12:46.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PedidoLanches.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:59:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PedidoLancheViewModel.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\ViewModels\\PedidoLancheViewModel.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\ViewModels\\PedidoLancheViewModel.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\ViewModels\\PedidoLancheViewModel.cs",
+              "RelativeToolTip": "LanchesMac\\ViewModels\\PedidoLancheViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:54:46.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:50:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwDsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:46:40.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminPedidosController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:40:22.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T02:39:40.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SeedUserRoleInitial.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Services\\SeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Services\\SeedUserRoleInitial.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Services\\SeedUserRoleInitial.cs",
+              "RelativeToolTip": "LanchesMac\\Services\\SeedUserRoleInitial.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwC8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:21:44.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISeedUserRoleInitial.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Services\\ISeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Services\\ISeedUserRoleInitial.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Services\\ISeedUserRoleInitial.cs",
+              "RelativeToolTip": "LanchesMac\\Services\\ISeedUserRoleInitial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:20:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T23:33:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminLanchesController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:38:47.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:33:09.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminCategoriasController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:34:34.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T19:38:19.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LanchesMac\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:43:03.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240802033509_AdicionarIdentity.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Migrations\\20240802033509_AdicionarIdentity.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Migrations\\20240802033509_AdicionarIdentity.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Migrations\\20240802033509_AdicionarIdentity.cs",
+              "RelativeToolTip": "LanchesMac\\Migrations\\20240802033509_AdicionarIdentity.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:35:09.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CarrinhoCompraController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Controllers\\CarrinhoCompraController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeToolTip": "LanchesMac\\Controllers\\CarrinhoCompraController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:10:53.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "LanchesMac\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:04:50.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "LanchesMac\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:42:12.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T22:47:42.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "LanchesMac\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:29:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T03:04:49.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CheckoutCompleto.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:59:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Pedido\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Pedido\\Checkout.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\Pedido\\Checkout.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Pedido\\Checkout.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvykAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:13:38.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "LanchesMac\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:01:18.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmailTagHelper.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\TagHelpers\\EmailTagHelper.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeToolTip": "LanchesMac\\TagHelpers\\EmailTagHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:16:27.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\CarrinhoCompra\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\CarrinhoCompra\\Index.cshtml",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Views\\CarrinhoCompra\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\CarrinhoCompra\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwDUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T02:37:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LancheController.cs",
+              "DocumentMoniker": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\LancheController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Controllers\\LancheController.cs",
+              "ToolTip": "C:\\www\\C#\\Projetos\\LanchesMac\\LanchesMac\\Controllers\\LancheController.cs",
+              "RelativeToolTip": "LanchesMac\\Controllers\\LancheController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwEsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:08:03.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
